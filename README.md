@@ -1,3 +1,5 @@
 # brightness_bash_intel
 Script to change brightness using bash
-usage "sudo bash scripts/brightness.sh N"
+RECOMMENDATION 
+alias moon='sudo bash ~/scripts/brightness.sh'
+usage "moon N"
